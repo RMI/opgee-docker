@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: Silicon-Ally/opgee
+  IMAGE_NAME: RMI/opgee
 
 jobs:
   build-and-push-image:
