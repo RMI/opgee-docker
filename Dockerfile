@@ -1,7 +1,7 @@
 FROM continuumio/miniconda3
 
-# Latest commit as of 2023-06-07
-ARG OPGEE_COMMIT=ad978eedf9e0b9a10bce10a643b0ed16819646d5
+# Latest commit as of 2023-06-20
+ARG OPGEE_COMMIT=b7559c49510f2dfe567c638dbe7e6d5002f1e496
 
 WORKDIR /usr/src/app
 
